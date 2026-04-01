@@ -1,4 +1,3 @@
-# makhana-supply-chain-toolkit
 # Makhana Supply Chain Toolkit
 
 An open-source toolkit designed to help small and medium agri-businesses manage makhana (fox nut) distribution efficiently.
